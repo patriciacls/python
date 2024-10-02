@@ -77,11 +77,33 @@ def salvando_dados(dados,path):
 path_json='data_raw/dados_empresaA.json'
 path_csv = 'data_raw/dados_empresaB.csv'
 
+#EXTRACT USANDO CLASSE DADOS
+
 dados_empresaA= Dados(path_json, 'json' )
-print(dados_empresaA.path)
-print(dados_empresaA.tipo_dados)
+print('Colunas Json')
+print(dados_empresaA.nome_colunas)
+print(f'Quantidade linhas json: {dados_empresaA.qtd_linhas}')
+dados_empresaB= Dados(path_csv, 'csv' )
+print('Colunas csv')
+print(dados_empresaB.nome_colunas)
+print(f'Quantidade linhas csv: {dados_empresaB.qtd_linhas}')
+#TRANSFORM
+key_mapping = {'Nome do Item': 'Nome do Produto',
+                'Classificação do Produto': 'Categoria do Produto',
+                'Valor em Reais (R$)': 'Preço do Produto (R$)',
+                'Quantidade em Estoque': 'Quantidade em Estoque',
+                'Nome da Loja': 'Filial',
+                'Data da Venda': 'Data da Venda'}
 
+dados_empresaB.rename_columns(key_mapping)
+print(dados_empresaB.nome_colunas)
 
+dados_fusao = Dados.join(dados_empresaA,dados_empresaB)
+print('Colunas FUSAO')
+print(dados_fusao.nome_colunas)
+print('QUANTIDADE LINHAS FUSAO')
+print(dados_fusao.qtd_linhas)
+dados_empresaB= Dados(path_csv, 'csv' )
 # #aplicando a leitura para os arquivos.Lendo nome colunas.
 # dados_json = leitura_dados(path_json,'json')
 # nome_colunas_json = get_columns(dados_json)
@@ -96,12 +118,7 @@ print(dados_empresaA.tipo_dados)
 # print(f"tamanho dados csv: {tamanho_dados_csv} .")
 # print(f"total de registros que devera ter com join: {tamanho_dados_csv+tamanho_dados_json}")
 # #renomear as colunas
-# key_mapping = {'Nome do Item': 'Nome do Produto',
-#                 'Classificação do Produto': 'Categoria do Produto',
-#                 'Valor em Reais (R$)': 'Preço do Produto (R$)',
-#                 'Quantidade em Estoque': 'Quantidade em Estoque',
-#                 'Nome da Loja': 'Filial',
-#                 'Data da Venda': 'Data da Venda'}
+
 # key_mapping
 
 # #renomeando a tabela definida pela equipe analytics (escolheram manter na csv)
