@@ -1,0 +1,354 @@
+[2024-12-18 22:05:40,502] {processor.py:153} INFO - Started process (PID=13858) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:05:40,503] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:05:40,504] {logging_mixin.py:115} INFO - [2024-12-18 22:05:40,504] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:05:40,524] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:05:40,620] {logging_mixin.py:115} INFO - [2024-12-18 22:05:40,620] {manager.py:508} INFO - Created Permission View: can read on DAG:example_complex
+[2024-12-18 22:05:40,632] {logging_mixin.py:115} INFO - [2024-12-18 22:05:40,632] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_complex
+[2024-12-18 22:05:40,641] {logging_mixin.py:115} INFO - [2024-12-18 22:05:40,641] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_complex
+[2024-12-18 22:05:40,641] {logging_mixin.py:115} INFO - [2024-12-18 22:05:40,641] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:05:40,651] {logging_mixin.py:115} INFO - [2024-12-18 22:05:40,651] {dag.py:2398} INFO - Creating ORM DAG for example_complex
+[2024-12-18 22:05:40,663] {logging_mixin.py:115} INFO - [2024-12-18 22:05:40,662] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:05:40,684] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.186 seconds
+[2024-12-18 22:06:16,921] {processor.py:153} INFO - Started process (PID=13974) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:06:16,922] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:06:16,923] {logging_mixin.py:115} INFO - [2024-12-18 22:06:16,923] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:06:16,938] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:06:16,963] {logging_mixin.py:115} INFO - [2024-12-18 22:06:16,963] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:06:16,988] {logging_mixin.py:115} INFO - [2024-12-18 22:06:16,988] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:06:17,004] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-12-18 22:06:52,881] {processor.py:153} INFO - Started process (PID=14104) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:06:52,882] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:06:52,883] {logging_mixin.py:115} INFO - [2024-12-18 22:06:52,883] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:06:52,897] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:06:52,922] {logging_mixin.py:115} INFO - [2024-12-18 22:06:52,922] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:06:52,946] {logging_mixin.py:115} INFO - [2024-12-18 22:06:52,946] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:06:52,960] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.083 seconds
+[2024-12-18 22:07:34,351] {processor.py:153} INFO - Started process (PID=14199) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:07:34,387] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:07:34,388] {logging_mixin.py:115} INFO - [2024-12-18 22:07:34,388] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:07:34,429] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:07:34,514] {logging_mixin.py:115} INFO - [2024-12-18 22:07:34,514] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:07:34,553] {logging_mixin.py:115} INFO - [2024-12-18 22:07:34,553] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:07:34,569] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.227 seconds
+[2024-12-18 22:08:12,062] {processor.py:153} INFO - Started process (PID=14295) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:08:12,064] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:08:12,065] {logging_mixin.py:115} INFO - [2024-12-18 22:08:12,065] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:08:12,090] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:08:12,130] {logging_mixin.py:115} INFO - [2024-12-18 22:08:12,130] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:08:12,187] {logging_mixin.py:115} INFO - [2024-12-18 22:08:12,187] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:08:12,258] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.203 seconds
+[2024-12-18 22:08:51,313] {processor.py:153} INFO - Started process (PID=14443) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:08:51,315] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:08:51,315] {logging_mixin.py:115} INFO - [2024-12-18 22:08:51,315] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:08:51,333] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:08:51,364] {logging_mixin.py:115} INFO - [2024-12-18 22:08:51,364] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:08:51,402] {logging_mixin.py:115} INFO - [2024-12-18 22:08:51,402] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:08:51,423] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.115 seconds
+[2024-12-18 22:09:29,172] {processor.py:153} INFO - Started process (PID=14596) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:09:29,173] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:09:29,174] {logging_mixin.py:115} INFO - [2024-12-18 22:09:29,174] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:09:29,197] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:09:29,252] {logging_mixin.py:115} INFO - [2024-12-18 22:09:29,252] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:09:29,296] {logging_mixin.py:115} INFO - [2024-12-18 22:09:29,296] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:09:29,322] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.159 seconds
+[2024-12-18 22:10:07,594] {processor.py:153} INFO - Started process (PID=14825) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:10:07,596] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:10:07,597] {logging_mixin.py:115} INFO - [2024-12-18 22:10:07,597] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:10:07,630] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:10:07,683] {logging_mixin.py:115} INFO - [2024-12-18 22:10:07,683] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:10:07,732] {logging_mixin.py:115} INFO - [2024-12-18 22:10:07,732] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:10:07,760] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.174 seconds
+[2024-12-18 22:10:46,339] {processor.py:153} INFO - Started process (PID=15236) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:10:46,343] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:10:46,347] {logging_mixin.py:115} INFO - [2024-12-18 22:10:46,347] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:10:46,447] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:10:46,504] {logging_mixin.py:115} INFO - [2024-12-18 22:10:46,504] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:10:46,540] {logging_mixin.py:115} INFO - [2024-12-18 22:10:46,539] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:10:46,561] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.246 seconds
+[2024-12-18 22:11:32,129] {processor.py:153} INFO - Started process (PID=15519) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:11:32,132] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:11:32,133] {logging_mixin.py:115} INFO - [2024-12-18 22:11:32,133] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:11:32,185] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:11:32,252] {logging_mixin.py:115} INFO - [2024-12-18 22:11:32,252] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:11:32,325] {logging_mixin.py:115} INFO - [2024-12-18 22:11:32,325] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:11:32,371] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.253 seconds
+[2024-12-18 22:12:15,887] {processor.py:153} INFO - Started process (PID=15712) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:12:15,889] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:12:15,890] {logging_mixin.py:115} INFO - [2024-12-18 22:12:15,890] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:12:15,912] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:12:15,944] {logging_mixin.py:115} INFO - [2024-12-18 22:12:15,944] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:12:15,975] {logging_mixin.py:115} INFO - [2024-12-18 22:12:15,975] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:12:16,005] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.132 seconds
+[2024-12-18 22:12:57,737] {processor.py:153} INFO - Started process (PID=15904) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:12:57,739] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:12:57,740] {logging_mixin.py:115} INFO - [2024-12-18 22:12:57,740] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:12:57,757] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:12:57,786] {logging_mixin.py:115} INFO - [2024-12-18 22:12:57,785] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:12:57,814] {logging_mixin.py:115} INFO - [2024-12-18 22:12:57,814] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:12:57,831] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2024-12-18 22:13:38,131] {processor.py:153} INFO - Started process (PID=16083) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:13:38,133] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:13:38,134] {logging_mixin.py:115} INFO - [2024-12-18 22:13:38,134] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:13:38,152] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:13:38,200] {logging_mixin.py:115} INFO - [2024-12-18 22:13:38,200] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:13:38,238] {logging_mixin.py:115} INFO - [2024-12-18 22:13:38,238] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:13:38,258] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.133 seconds
+[2024-12-18 22:14:23,520] {processor.py:153} INFO - Started process (PID=16307) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:14:23,523] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:14:23,525] {logging_mixin.py:115} INFO - [2024-12-18 22:14:23,525] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:14:23,575] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:14:23,699] {logging_mixin.py:115} INFO - [2024-12-18 22:14:23,698] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:14:23,744] {logging_mixin.py:115} INFO - [2024-12-18 22:14:23,744] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:14:23,767] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.260 seconds
+[2024-12-18 22:15:05,988] {processor.py:153} INFO - Started process (PID=16515) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:15:05,990] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:15:05,992] {logging_mixin.py:115} INFO - [2024-12-18 22:15:05,992] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:15:06,017] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:15:06,058] {logging_mixin.py:115} INFO - [2024-12-18 22:15:06,058] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:15:06,087] {logging_mixin.py:115} INFO - [2024-12-18 22:15:06,087] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:15:06,104] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.122 seconds
+[2024-12-18 22:15:45,958] {processor.py:153} INFO - Started process (PID=16719) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:15:45,960] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:15:45,961] {logging_mixin.py:115} INFO - [2024-12-18 22:15:45,961] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:15:45,988] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:15:46,102] {logging_mixin.py:115} INFO - [2024-12-18 22:15:46,102] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:15:46,271] {logging_mixin.py:115} INFO - [2024-12-18 22:15:46,271] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:15:46,357] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.404 seconds
+[2024-12-18 22:16:28,898] {processor.py:153} INFO - Started process (PID=16996) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:16:28,903] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:16:28,905] {logging_mixin.py:115} INFO - [2024-12-18 22:16:28,905] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:16:28,967] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:16:29,046] {logging_mixin.py:115} INFO - [2024-12-18 22:16:29,046] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:16:29,089] {logging_mixin.py:115} INFO - [2024-12-18 22:16:29,089] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:16:29,122] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.238 seconds
+[2024-12-18 22:17:11,993] {processor.py:153} INFO - Started process (PID=17209) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:17:11,995] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:17:11,996] {logging_mixin.py:115} INFO - [2024-12-18 22:17:11,996] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:17:12,026] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:17:12,065] {logging_mixin.py:115} INFO - [2024-12-18 22:17:12,065] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:17:12,090] {logging_mixin.py:115} INFO - [2024-12-18 22:17:12,090] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:17:12,107] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.122 seconds
+[2024-12-18 22:17:58,182] {processor.py:153} INFO - Started process (PID=17431) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:17:58,183] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:17:58,184] {logging_mixin.py:115} INFO - [2024-12-18 22:17:58,184] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:17:58,205] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:17:58,244] {logging_mixin.py:115} INFO - [2024-12-18 22:17:58,244] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:17:58,279] {logging_mixin.py:115} INFO - [2024-12-18 22:17:58,279] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:17:58,303] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.128 seconds
+[2024-12-18 22:18:48,018] {processor.py:153} INFO - Started process (PID=17652) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:18:48,021] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:18:48,024] {logging_mixin.py:115} INFO - [2024-12-18 22:18:48,023] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:18:48,065] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:18:48,140] {logging_mixin.py:115} INFO - [2024-12-18 22:18:48,140] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:18:48,268] {logging_mixin.py:115} INFO - [2024-12-18 22:18:48,268] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:18:48,315] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.308 seconds
+[2024-12-18 22:19:50,121] {processor.py:153} INFO - Started process (PID=17926) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:19:50,125] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:19:50,128] {logging_mixin.py:115} INFO - [2024-12-18 22:19:50,128] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:19:50,185] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:19:50,279] {logging_mixin.py:115} INFO - [2024-12-18 22:19:50,278] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:19:50,388] {logging_mixin.py:115} INFO - [2024-12-18 22:19:50,388] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:19:50,443] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.337 seconds
+[2024-12-18 22:20:32,210] {processor.py:153} INFO - Started process (PID=18130) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:20:32,212] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:20:32,213] {logging_mixin.py:115} INFO - [2024-12-18 22:20:32,213] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:20:32,242] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:20:32,294] {logging_mixin.py:115} INFO - [2024-12-18 22:20:32,294] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:20:32,327] {logging_mixin.py:115} INFO - [2024-12-18 22:20:32,327] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:20:32,352] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.148 seconds
+[2024-12-18 22:21:10,268] {processor.py:153} INFO - Started process (PID=18318) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:21:10,273] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:21:10,277] {logging_mixin.py:115} INFO - [2024-12-18 22:21:10,276] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:21:10,360] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:21:10,441] {logging_mixin.py:115} INFO - [2024-12-18 22:21:10,440] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:21:10,509] {logging_mixin.py:115} INFO - [2024-12-18 22:21:10,509] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:21:10,551] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.303 seconds
+[2024-12-18 22:21:56,737] {processor.py:153} INFO - Started process (PID=18536) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:21:56,740] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:21:56,741] {logging_mixin.py:115} INFO - [2024-12-18 22:21:56,741] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:21:56,774] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:21:56,826] {logging_mixin.py:115} INFO - [2024-12-18 22:21:56,825] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:21:56,875] {logging_mixin.py:115} INFO - [2024-12-18 22:21:56,874] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:21:56,905] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.187 seconds
+[2024-12-18 22:22:42,121] {processor.py:153} INFO - Started process (PID=18743) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:22:42,123] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:22:42,125] {logging_mixin.py:115} INFO - [2024-12-18 22:22:42,125] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:22:42,156] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:22:42,200] {logging_mixin.py:115} INFO - [2024-12-18 22:22:42,199] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:22:42,244] {logging_mixin.py:115} INFO - [2024-12-18 22:22:42,244] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:22:42,271] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.159 seconds
+[2024-12-18 22:23:24,215] {processor.py:153} INFO - Started process (PID=18940) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:23:24,216] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:23:24,217] {logging_mixin.py:115} INFO - [2024-12-18 22:23:24,217] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:23:24,234] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:23:24,267] {logging_mixin.py:115} INFO - [2024-12-18 22:23:24,266] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:23:24,348] {logging_mixin.py:115} INFO - [2024-12-18 22:23:24,347] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:23:24,431] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.220 seconds
+[2024-12-18 22:24:10,527] {processor.py:153} INFO - Started process (PID=19160) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:24:10,533] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:24:10,543] {logging_mixin.py:115} INFO - [2024-12-18 22:24:10,542] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:24:10,609] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:24:10,645] {logging_mixin.py:115} INFO - [2024-12-18 22:24:10,645] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:24:10,692] {logging_mixin.py:115} INFO - [2024-12-18 22:24:10,691] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:24:10,723] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.215 seconds
+[2024-12-18 22:24:58,905] {processor.py:153} INFO - Started process (PID=19405) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:24:58,906] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:24:58,908] {logging_mixin.py:115} INFO - [2024-12-18 22:24:58,907] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:24:58,934] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:24:58,982] {logging_mixin.py:115} INFO - [2024-12-18 22:24:58,982] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:24:59,030] {logging_mixin.py:115} INFO - [2024-12-18 22:24:59,030] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:24:59,055] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.158 seconds
+[2024-12-18 22:25:48,851] {processor.py:153} INFO - Started process (PID=19638) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:25:48,854] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:25:48,857] {logging_mixin.py:115} INFO - [2024-12-18 22:25:48,856] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:25:48,931] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:25:49,039] {logging_mixin.py:115} INFO - [2024-12-18 22:25:49,038] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:25:49,144] {logging_mixin.py:115} INFO - [2024-12-18 22:25:49,143] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:25:49,206] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.373 seconds
+[2024-12-18 22:26:30,123] {processor.py:153} INFO - Started process (PID=19816) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:26:30,128] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:26:30,130] {logging_mixin.py:115} INFO - [2024-12-18 22:26:30,130] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:26:30,173] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:26:30,238] {logging_mixin.py:115} INFO - [2024-12-18 22:26:30,238] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:26:30,301] {logging_mixin.py:115} INFO - [2024-12-18 22:26:30,300] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:26:30,339] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.233 seconds
+[2024-12-18 22:27:12,390] {processor.py:153} INFO - Started process (PID=20013) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:27:12,393] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:27:12,395] {logging_mixin.py:115} INFO - [2024-12-18 22:27:12,395] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:27:12,440] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:27:12,504] {logging_mixin.py:115} INFO - [2024-12-18 22:27:12,504] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:27:12,554] {logging_mixin.py:115} INFO - [2024-12-18 22:27:12,554] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:27:12,583] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.206 seconds
+[2024-12-18 22:27:54,956] {processor.py:153} INFO - Started process (PID=20219) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:27:54,958] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:27:54,959] {logging_mixin.py:115} INFO - [2024-12-18 22:27:54,959] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:27:54,982] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:27:55,029] {logging_mixin.py:115} INFO - [2024-12-18 22:27:55,028] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:27:55,069] {logging_mixin.py:115} INFO - [2024-12-18 22:27:55,068] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:27:55,096] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.146 seconds
+[2024-12-18 22:28:36,478] {processor.py:153} INFO - Started process (PID=20421) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:28:36,480] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:28:36,481] {logging_mixin.py:115} INFO - [2024-12-18 22:28:36,481] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:28:36,501] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:28:36,542] {logging_mixin.py:115} INFO - [2024-12-18 22:28:36,541] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:28:36,578] {logging_mixin.py:115} INFO - [2024-12-18 22:28:36,578] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:28:36,607] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.134 seconds
+[2024-12-18 22:29:14,260] {processor.py:153} INFO - Started process (PID=20610) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:29:14,263] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:29:14,265] {logging_mixin.py:115} INFO - [2024-12-18 22:29:14,265] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:29:14,304] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:29:14,372] {logging_mixin.py:115} INFO - [2024-12-18 22:29:14,372] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:29:14,420] {logging_mixin.py:115} INFO - [2024-12-18 22:29:14,420] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:29:14,439] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.190 seconds
+[2024-12-18 22:29:50,412] {processor.py:153} INFO - Started process (PID=20798) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:29:50,413] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:29:50,414] {logging_mixin.py:115} INFO - [2024-12-18 22:29:50,414] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:29:50,434] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:29:50,488] {logging_mixin.py:115} INFO - [2024-12-18 22:29:50,487] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:29:50,530] {logging_mixin.py:115} INFO - [2024-12-18 22:29:50,530] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:29:50,547] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.140 seconds
+[2024-12-18 22:30:28,947] {processor.py:153} INFO - Started process (PID=20998) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:30:28,948] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:30:28,949] {logging_mixin.py:115} INFO - [2024-12-18 22:30:28,949] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:30:28,963] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:30:28,986] {logging_mixin.py:115} INFO - [2024-12-18 22:30:28,986] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:30:29,008] {logging_mixin.py:115} INFO - [2024-12-18 22:30:29,008] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:30:29,022] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2024-12-18 22:31:12,658] {processor.py:153} INFO - Started process (PID=21226) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:31:12,672] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:31:12,673] {logging_mixin.py:115} INFO - [2024-12-18 22:31:12,673] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:31:12,695] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:31:12,724] {logging_mixin.py:115} INFO - [2024-12-18 22:31:12,723] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:31:12,750] {logging_mixin.py:115} INFO - [2024-12-18 22:31:12,750] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:31:12,767] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.119 seconds
+[2024-12-18 22:31:49,487] {processor.py:153} INFO - Started process (PID=21415) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:31:49,491] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:31:49,493] {logging_mixin.py:115} INFO - [2024-12-18 22:31:49,492] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:31:49,535] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:31:49,574] {logging_mixin.py:115} INFO - [2024-12-18 22:31:49,573] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:31:49,599] {logging_mixin.py:115} INFO - [2024-12-18 22:31:49,598] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:31:49,614] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.138 seconds
+[2024-12-18 22:32:27,316] {processor.py:153} INFO - Started process (PID=21605) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:32:27,319] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:32:27,321] {logging_mixin.py:115} INFO - [2024-12-18 22:32:27,321] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:32:27,362] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:32:27,433] {logging_mixin.py:115} INFO - [2024-12-18 22:32:27,433] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:32:27,480] {logging_mixin.py:115} INFO - [2024-12-18 22:32:27,480] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:32:27,498] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.195 seconds
+[2024-12-18 22:33:10,940] {processor.py:153} INFO - Started process (PID=21813) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:33:10,943] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:33:10,945] {logging_mixin.py:115} INFO - [2024-12-18 22:33:10,945] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:33:11,002] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:33:11,096] {logging_mixin.py:115} INFO - [2024-12-18 22:33:11,095] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:33:11,189] {logging_mixin.py:115} INFO - [2024-12-18 22:33:11,188] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:33:11,243] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.318 seconds
+[2024-12-18 22:33:59,611] {processor.py:153} INFO - Started process (PID=22029) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:33:59,614] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:33:59,616] {logging_mixin.py:115} INFO - [2024-12-18 22:33:59,615] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:33:59,661] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:33:59,745] {logging_mixin.py:115} INFO - [2024-12-18 22:33:59,745] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:33:59,827] {logging_mixin.py:115} INFO - [2024-12-18 22:33:59,827] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:33:59,879] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.281 seconds
+[2024-12-18 22:34:46,146] {processor.py:153} INFO - Started process (PID=22233) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:34:46,150] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:34:46,153] {logging_mixin.py:115} INFO - [2024-12-18 22:34:46,152] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:34:46,211] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:34:46,316] {logging_mixin.py:115} INFO - [2024-12-18 22:34:46,315] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:34:46,375] {logging_mixin.py:115} INFO - [2024-12-18 22:34:46,375] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:34:46,407] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.275 seconds
+[2024-12-18 22:35:39,780] {processor.py:153} INFO - Started process (PID=22476) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:35:39,782] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:35:39,784] {logging_mixin.py:115} INFO - [2024-12-18 22:35:39,784] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:35:39,812] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:35:39,860] {logging_mixin.py:115} INFO - [2024-12-18 22:35:39,860] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:35:39,903] {logging_mixin.py:115} INFO - [2024-12-18 22:35:39,903] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:35:39,931] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.158 seconds
+[2024-12-18 22:36:27,048] {processor.py:153} INFO - Started process (PID=22691) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:36:27,052] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:36:27,055] {logging_mixin.py:115} INFO - [2024-12-18 22:36:27,055] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:36:27,104] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:36:27,195] {logging_mixin.py:115} INFO - [2024-12-18 22:36:27,194] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:36:27,270] {logging_mixin.py:115} INFO - [2024-12-18 22:36:27,270] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:36:27,318] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.283 seconds
+[2024-12-18 22:37:07,468] {processor.py:153} INFO - Started process (PID=22870) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:37:07,471] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:37:07,474] {logging_mixin.py:115} INFO - [2024-12-18 22:37:07,474] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:37:07,533] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:37:07,621] {logging_mixin.py:115} INFO - [2024-12-18 22:37:07,620] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:37:07,654] {logging_mixin.py:115} INFO - [2024-12-18 22:37:07,654] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:37:07,677] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.223 seconds
+[2024-12-18 22:37:50,692] {processor.py:153} INFO - Started process (PID=23062) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:37:50,696] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:37:50,699] {logging_mixin.py:115} INFO - [2024-12-18 22:37:50,699] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:37:50,762] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:37:50,860] {logging_mixin.py:115} INFO - [2024-12-18 22:37:50,859] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:37:50,950] {logging_mixin.py:115} INFO - [2024-12-18 22:37:50,949] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:37:51,017] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.341 seconds
+[2024-12-18 22:38:32,277] {processor.py:153} INFO - Started process (PID=23251) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:38:32,281] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:38:32,285] {logging_mixin.py:115} INFO - [2024-12-18 22:38:32,284] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:38:32,366] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:38:32,426] {logging_mixin.py:115} INFO - [2024-12-18 22:38:32,426] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:38:32,458] {logging_mixin.py:115} INFO - [2024-12-18 22:38:32,457] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:38:32,482] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.235 seconds
+[2024-12-18 22:39:10,554] {processor.py:153} INFO - Started process (PID=23431) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:39:10,557] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:39:10,559] {logging_mixin.py:115} INFO - [2024-12-18 22:39:10,559] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:39:10,617] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:39:10,715] {logging_mixin.py:115} INFO - [2024-12-18 22:39:10,715] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:39:10,809] {logging_mixin.py:115} INFO - [2024-12-18 22:39:10,808] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:39:10,863] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.325 seconds
+[2024-12-18 22:39:58,791] {processor.py:153} INFO - Started process (PID=23660) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:39:58,792] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:39:58,793] {logging_mixin.py:115} INFO - [2024-12-18 22:39:58,793] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:39:58,808] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:39:58,843] {logging_mixin.py:115} INFO - [2024-12-18 22:39:58,842] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:39:58,867] {logging_mixin.py:115} INFO - [2024-12-18 22:39:58,867] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:39:58,883] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.096 seconds
+[2024-12-18 22:40:38,477] {processor.py:153} INFO - Started process (PID=23879) to work on /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:40:38,479] {processor.py:641} INFO - Processing file /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-18 22:40:38,481] {logging_mixin.py:115} INFO - [2024-12-18 22:40:38,480] {dagbag.py:507} INFO - Filling up the DagBag from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:40:38,506] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-18 22:40:38,556] {logging_mixin.py:115} INFO - [2024-12-18 22:40:38,555] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-18 22:40:38,583] {logging_mixin.py:115} INFO - [2024-12-18 22:40:38,582] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-18 22:40:38,603] {processor.py:161} INFO - Processing /home/patriciacorreia/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.133 seconds
